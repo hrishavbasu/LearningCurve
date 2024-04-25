@@ -11,8 +11,8 @@ JUST DO IT !!!
   - git push
 
 **Goals**
-  - To motivate eachother to do more productive work
-  - Inculcate discipline
-  - get more knowledge about open source contribution
-  - ultimately land a good job
+  - To motivate eachother to do more productive work.
+  - Inculcate discipline.
+  - Get more knowledge about open source contribution.
+  - Ultimately land a good job.
   
